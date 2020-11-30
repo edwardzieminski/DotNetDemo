@@ -3,7 +3,7 @@
 Dla Windowsa jeśli chcemy pracować w Visual Studio to instalator prawdopodobnie sam podpowie instalację tych składników. W przypadku VSC trzeba jednak te składniki zainstalować ręcznie.
 <img src="Prezentacja.png" alt="prezentacja"/>
 # Struktura programu
-W .NET mamy koncepcję solucji i projektu - solucja scala wiele projektów. Nie powiedziałem tego w prezentacji, ale w przypadku prostego programu i pracy w VSC możemy utworzyć pojedynczy projekt bez solucji i powinno działać (na potrzeby testów można tak pracować, przy poważniejszym programie lepiej "po bożemu" stworzyć jednak solucję i dołączyć do niej projekt(y).
+W .NET mamy koncepcję solucji i projektu - solucja scala wiele projektów. Nie powiedziałem tego w prezentacji, ale w przypadku prostego programu i pracy w VSC możemy utworzyć pojedynczy projekt bez solucji i powinno działać. Na potrzeby testów można tak pracować, przy poważniejszym programie lepiej "po bożemu" stworzyć jednak solucję i dołączyć do niej projekt(y).
 # Praca w konsoli
 Niezależnie od systemu jeśli chcemy pracować w VSC lub nawet w notatniku, po zainstalowaniu .NET SDK i .NET Runtime mamy do dyspozycji tzw. CLI (Command Line Interface). Aktywujemy go poleceniem <b>dotnet</b>. Aby dostać listę dostępnych opcji uruchamiamy <b>dotnet --help</b>.
 # Tworzenie struktury programu
