@@ -1,6 +1,7 @@
 # Jak zacząć
-Żeby zacząć pracę w .NET w dowolnym systemie (Windows, Linux, Mac OS) trzeba zainstalować w systemie .NET SDK i .NET Runtime (sprawdź obrazek Prezentacja.png w repo).
+Żeby zacząć pracę w .NET w dowolnym systemie (Windows, Linux, Mac OS) trzeba zainstalować w systemie .NET SDK i .NET Runtime.
 Dla Windowsa jeśli chcemy pracować w Visual Studio to instalator prawdopodobnie sam podpowie instalację tych składników. W przypadku VSC trzeba jednak te składniki zainstalować ręcznie.
+<img src="Prezentacja.png" alt="prezentacja"/>
 # Struktura programu
 W .NET mamy koncepcję solucji i projektu - solucja scala wiele projektów. Nie powiedziałem tego w prezentacji, ale w przypadku prostego programu i pracy w VSC możemy utworzyć pojedynczy projekt bez solucji i powinno działać (na potrzeby testów można tak pracować, przy poważniejszym programie lepiej "po bożemu" stworzyć jednak solucję i dołączyć do niej projekt(y).
 # Praca w konsoli
